@@ -11,7 +11,7 @@ DEMO_URL=https://pacer90-blip.github.io/dom-3d-progulka/kvartira-46/
 
 # Ваши ссылки. Если чего-то нет (например, канала) — оставьте пусто после =
 # CHANNEL_URL — ваш Telegram-КАНАЛ (не бот). CONTACT_USERNAME — ваш личный @ник в Telegram
-INSTAGRAM_URL=
+INSTAGRAM_URL=https://www.instagram.com/polina3dprogulki?mdxt=MXc4bDRjZmczcjRwag%3D%3D&utm_source=qr
 CHANNEL_URL=
 CONTACT_USERNAME=
 
