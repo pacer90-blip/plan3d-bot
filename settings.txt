@@ -1,0 +1,25 @@
+﻿# НАСТРОЙКИ БОТА. Впишите свои данные после знака = (без пробелов и кавычек) и сохраните файл (Ctrl+S).
+
+# Токен от @BotFather
+BOT_TOKEN=
+
+# Ваш числовой ID в Telegram (узнать: напишите боту /myid или @userinfobot)
+ADMIN_ID=
+
+# Ссылка на демо-прогулку (евродвушка 46 м², А/Б)
+DEMO_URL=https://pacer90-blip.github.io/dom-3d-progulka/kvartira-46/
+
+# Ваши ссылки. Если чего-то нет (например, канала) — оставьте пусто после =
+# CHANNEL_URL — ваш Telegram-КАНАЛ (не бот). CONTACT_USERNAME — ваш личный @ник в Telegram
+INSTAGRAM_URL=
+CHANNEL_URL=
+CONTACT_USERNAME=
+
+# Файлы (можно не трогать: положите их в папку files/)
+CHECKLIST_FILE=files/checklist.pdf
+DEMO_VIDEO_FILE=files/demo.mp4
+CASES_DIR=files/cases
+
+# Через сколько часов после демо писать напоминания
+FOLLOWUP_1_HOURS=24
+FOLLOWUP_2_HOURS=72
